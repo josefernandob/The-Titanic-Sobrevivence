@@ -40,9 +40,15 @@ A análise dos dados e do modelo de Machine Learning resultou nos seguintes insi
 
 O fator mais decisivo para a sobrevivência foi o Sexo do passageiro. Historicamente, a política de "mulheres e crianças primeiro" teve um impacto significativo, e o modelo de Machine Learning refletiu isso com grande precisão.
 
+Como mostra o gráfico abaixo: <img width="851" height="631" alt="image" src="https://github.com/user-attachments/assets/237fd944-2660-4ac2-9106-d01704ceea02" />
+
+
 A Tarifa paga e a Idade também foram fatores extremamente importantes, indicando que a classe social e a idade do passageiro influenciaram as chances de sobrevivência.
 
-Passageiros que embarcaram em Cherbourg tiveram a maior taxa de sobrevivência, uma vez que o porto era o ponto de embarque para muitos dos passageiros mais ricos e de primeira classe.
+Passageiros que embarcaram em Cherbourg tiveram a maior taxa de sobrevivência, uma vez que o porto era o ponto de embarque para muitos dos passageiros mais ricos e de primeira classe. Conforme gráfico:
+
+<img width="658" height="464" alt="image" src="https://github.com/user-attachments/assets/d285fd7e-9dcd-4282-9c9a-f7b222e2e693" />
+
 
 ## Tecnologias e Bibliotecas
 Linguagem de Programação: Python
@@ -52,3 +58,8 @@ Manipulação e Análise de Dados: Pandas
 Machine Learning: Scikit-learn
 
 Visualização de Dados: Matplotlib, Seaborn# The-Titanic-Sobrevivence
+
+## Baixando dependências
+
+Você pode baixar as dependências baixando o arquivo requirements.txt e utilizando o comando pip install -r requirements.txt
+OBs: O arquivo precisa estar na pasta da IDE.
