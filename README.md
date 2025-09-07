@@ -1,5 +1,5 @@
 # Análise de Sobrevivência do Titanic com Machine Learning
-Visão Geral do Projeto
+## Visão Geral do Projeto
 Este projeto é uma análise completa do famoso conjunto de dados do Titanic, utilizando técnicas de ciência de dados e Machine Learning para prever a sobrevivência de passageiros. O objetivo foi não apenas construir um modelo preditivo, mas também entender os principais fatores que influenciaram a taxa de sobrevivência, validando as descobertas através de visualizações de dados.
 
 ## Metodologia
